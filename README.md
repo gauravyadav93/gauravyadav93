@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauravyadav93
-- 👀 I’m interested in ...learning and coding
+- 👀 I’m interested in ...learning and data-driven decision-making.
 - 🌱 I’m currently learning ... and developing problem-solving skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail at gauravyyadav6@gmail.com
